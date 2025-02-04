@@ -36,7 +36,7 @@ const systemInfo = `
 `;
 
 let index = 0;
-const speed = 500; // Adjust speed here (lower is faster)
+const speed = 10; // Adjust speed here (lower is faster)
 
 function typeWriter() {
     if (index < systemInfo.length) {
